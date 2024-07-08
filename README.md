@@ -1,1 +1,1 @@
-this  projet was made to solve the problem of stock management in our local environnment bamneda cameroon. this project was develop using java programming language , using apache netbeans as an IDE and the database mysql and XAmp as a local server 
+this  projet was made to solve the problem of stock management in our local environnment bamneda cameroon. It was develop using java programming language , using apache netbeans as an IDE and the database mysql and XAmp as a local server 
